@@ -1,6 +1,6 @@
 package com.vexchange;
 
 public class Config {
-    public static final String EMAIL = "vexchange.contact@gmail.com";
-    public static final String PASSWORD = "Abhi@9848";
+    public static final String EMAIL = "YOUR EMAIL HERE";
+    public static final String PASSWORD = "YOUR PASSWORD HERE";
 }
