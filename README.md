@@ -27,7 +27,7 @@ An interface (application) enables users to buy and sell books and other station
 
 you will have to download the complete source code everytime it is updated on the repository.
 
-Download apk file <a href="https://github.com/hipstermartin/VExchange/app-debug.apk">here</a>
+Download apk file <a href="https://github.com/hipstermartin/VExchange/blob/main/app-debug.apk">here</a>
 
 ### Stay Up to date
 It is important for you stay up to date with the new features, latest updates and bug fixing. Ensure to Star( * ) the project on Github and get notified whenever any update coming.
