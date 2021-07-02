@@ -36,8 +36,8 @@ It is important for you stay up to date with the new features, latest updates an
 Note: Make sure you use latest android studio version
 
 1) First Launch Android Studio
-2) Open the download folder and unzip ChatApp-master.zip file.
-3) Open the project name ChatApp from the folder where you have downloaded the code using menu File -> Open 
+2) Open the download folder and unzip VExchange-master.zip file.
+3) Open the project name VExchange from the folder where you have downloaded the code using menu File -> Open 
 4) It may take a while to build the project for the first time.
 5) Configure the app to firebase and app <b>google-services.json</b> file.
 6) Once the build is over, run on the device using menu Run -> Run (app) (Launch app in emulator or phone)
